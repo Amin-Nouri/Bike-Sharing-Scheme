@@ -1,8 +1,10 @@
 # Bike-Sharing-Scheme
-A comprehensive exploratory data analysis on bikesharing metro dataset In this project, we aim to find insights into the data set given as (metro.csv) related to a Bicycle rental project by exploratory data
+*A comprehensive exploratory data analysis on bikesharing metro dataset*
+
+In this project, we aim to find insights into the data set given as (metro.csv) related to a Bicycle rental project by exploratory data
 analysis.
 
-The Data set contains 92124 entries and 15 features with the following description:
+The Data set contains *92124* entries and *15* features with the following description:
 
 - trip_id: Locally unique integer that identifies the trip
 - duration: Length of trip in minutes
